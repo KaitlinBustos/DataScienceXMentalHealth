@@ -1,2 +1,2 @@
 # DataScienceXMentalHealth
-Toronto Womxn In Data Science 2023 Conference Workshop Material 
+Toronto Womxn In Data Science 2023 Conference Workshop Material & References. 
